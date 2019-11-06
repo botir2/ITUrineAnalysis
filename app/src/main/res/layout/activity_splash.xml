@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data></data>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.ssomai.android.scalablelayout.ScalableLayout
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:scale_base_width="360"
+            app:scale_base_height="640">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:scale_top="182"
+                app:scale_left="126"
+                app:scale_width="108"
+                app:scale_height="131"
+                android:src="@drawable/logo"/>
+            <TextView
+                app:scale_textsize="14"
+                app:scale_top="544"
+                app:scale_width="360"
+                app:textview_wrapcontent_scale_maxwidth="360"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/splash_msg"
+                android:textAlignment="center"/>
+
+        </com.ssomai.android.scalablelayout.ScalableLayout>
+    </RelativeLayout>
+</layout>

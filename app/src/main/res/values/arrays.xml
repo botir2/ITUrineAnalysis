@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sg_str_arr">
+        <item>저장뇨</item>
+        <item>등장뇨</item>
+        <item>고장뇨</item>
+    </string-array>
+    <string-array name="ph_str_arr">
+        <item>산성뇨</item>
+        <item>중성뇨</item>
+        <item>알칼리뇨</item>
+    </string-array>
+    <string-array name="leu_str_arr">
+        <item>정상</item>
+        <item>약간증가</item>
+        <item>증가</item>
+    </string-array>
+    <string-array name="nit_str_arr">
+        <item>음성</item>
+        <item>양성</item>
+    </string-array>
+    <string-array name="pro_str_arr">
+        <item>정상</item>
+        <item>약간증가</item>
+        <item>증가</item>
+    </string-array>
+    <string-array name="glu_str_arr">
+        <item>정상</item>
+        <item>약간증가</item>
+        <item>증가</item>
+    </string-array>
+    <string-array name="ket_str_arr">
+        <item>정상</item>
+        <item>약간증가</item>
+        <item>증가</item>
+    </string-array>
+    <string-array name="ubg_str_arr">
+        <item>정상</item>
+        <item>약간증가</item>
+        <item>증가</item>
+    </string-array>
+    <string-array name="bil_str_arr">
+        <item>정상</item>
+        <item>약간증가</item>
+        <item>증가</item>
+    </string-array>
+    <string-array name="ery_str_arr">
+        <item>정상</item>
+        <item>약간증가</item>
+        <item>증가</item>
+    </string-array>
+    <string-array name="hb_str_arr">
+        <item>정상</item>
+        <item>약간증가</item>
+        <item>증가</item>
+    </string-array>
+
+</resources>

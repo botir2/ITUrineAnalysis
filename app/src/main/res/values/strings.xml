@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HodooOpenCV</string>
+    <string name="splash_msg">Thank you for being there.</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">cancel</string>
+
+    <string name="camera_confirm">Use picture</string>
+    <string name="camera_cancel">Retake</string>
+</resources>
